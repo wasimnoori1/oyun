@@ -1,0 +1,26 @@
+{
+  "name": "Çözülmeyen Konular — Dedektif Masası",
+  "short_name": "Çözülmeyen",
+  "description": "Dosyaları incele, şüphelileri sorgula ve gerçeği ortaya çıkar.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
